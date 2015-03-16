@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvSenario"
+        android:layout_width="222dp"
+        android:layout_height="match_parent"
+        android:background="#ff000099"
+        android:gravity="right"
+        android:paddingLeft="3dp"
+        android:text="@string/senLock"
+        android:textColor="#ffffff80"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tvSenarioName"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:background="#ffffff80"
+        android:gravity="center"
+        android:text="@string/senNameLock"
+        android:textColor="#ff000099"
+        android:textSize="24sp" />
+
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="namaad.bms"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="namaad.bms.MainBMS"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="namaad.bms.Lighting"
+            android:label="@string/title_activity_lighting"></activity>
+        <activity
+            android:name="namaad.bms.EnergyMan"
+            android:label="@string/title_activity_energy_man"></activity>
+        <activity
+            android:name="namaad.bms.Safety"
+            android:label="@string/title_activity_safety"></activity>
+        <activity
+            android:name="namaad.bms.Senario"
+            android:label="@string/title_activity_senario"></activity>
+        <activity
+            android:name="namaad.bms.SecurityBMS"
+            android:label="@string/title_activity_security_bms"></activity>
+        <activity
+            android:name="namaad.bms.SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
+    </application>
+
+</manifest>

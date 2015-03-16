@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NBMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lblMainMenu">منوی اصلی</string>
+    <string name="btnEnergyMan">مدیریت انرژی</string>
+    <string name="btnLighting">روشنایی</string>
+    <string name="btnSafety">ایمنی و سلامت</string>
+    <string name="btnSecurity">امنیت</string>
+    <string name="btnSenario">سناریوها</string>
+    <string name="btnSetup">تنظیمات</string>
+    <string name="title_activity_lighting">روشنایی</string>
+    <string name="btnBedroom1">خواب</string>
+    <string name="btnSalon1">سالن</string>
+    <string name="btnBedroom2">خواب 2</string>
+    <string name="btnSalon2">سالن 2</string>
+    <string name="btnRahro1">راهرو 1</string>
+    <string name="btnRahro2">راهرو 2</string>
+    <string name="btnYard">حیاط</string>
+    <string name="title_activity_energy_man">مدیریت انرژی</string>
+    <string name="title_activity_safety">ایمنی و سلامت</string>
+    <string name="title_activity_senario">سناریو</string>
+    <string name="title_activity_security_bms">امنیت</string>
+    <string name="lblTempr">دما</string>
+    <string name="lblCurTmpr">فعلی</string>
+    <string name="lblIdealTempr">مطلوب</string>
+    <string name="lblAlertTempr">هشدار</string>
+    <string name="lblSalon">سالن</string>
+    <string name="btnRisingYard">آبیاری حیاط</string>
+    <string name="rdbCurtAuto">پرده اتوماتیک</string>
+    <string name="rdbCurtClose">پرده بسته</string>
+    <string name="btnlock">قفل کردن کل خانه</string>
+    <string name="btnDoorYard">مگنت درب حیاط</string>
+    <string name="btnDoorEntr">مگنت درب ورودی</string>
+    <string name="btnEyeBed">چشم الکترونیک خواب</string>
+    <string name="btnEyeDoor">چشم الکترونیک درب</string>
+    <string name="lblOne">1</string>
+    <string name="senNameLock">قفل</string>
+    <string name="senLock">مگنت ها قفل، چشم ها روشن، چراغ ها خاموش</string>
+    <string name="senNameSleep">خواب</string>
+    <string name="senSleep">مگنت ها قفل، چشم در روشن، چراغ ها خاموش، چشم اتاق خواب ازکار می افتد</string>
+    <string name="senMovie">چراغ ها خاموش، فقط یک سری از چراغ های سالن روشن</string>
+    <string name="senNameMovie">فیلم</string>
+    <string name="senParty">تمام چراغ ها روشن، چراغ های حیاط روشن، دما سالن روی 20 تنظیم شود</string>
+    <string name="senNameParty">مهمانی</string>
+    <string name="senInHome">چراغ سالن از 8 تا 12 روشن، چراغ یکی از خوابها از 10 تا 11 روشن، چراغ حیاط از 9 تا11 روشن</string>
+    <string name="senNameInHome">درخانه</string>
+    <string name="senAutoCurt">تنظیم اتوماتیک نور داخل وپرده متناسب با نور محیط</string>
+    <string name="senNameAutoCurt">پرده اتوماتیک</string>
+    <string name="btnKitchen">آشپزخانه</string>
+    <string name="btnWc">سرویس</string>
+    <string name="rdbCurtOpen">پرده باز</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnFanWc">فن سرویس</string>
+    <string name="btnFanBedroom">فن خواب</string>
+    <string name="btnFanSalon">فن سالن</string>
+    <string name="btnLockDoorEntr">قفل درب ورودی</string>
+
+</resources>
